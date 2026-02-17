@@ -9,6 +9,9 @@ macro will automaticaly start a combo after certain key is pressed and certain s
 automaticaly detects which slot is currently active.
 ### 4. Easy to configure
 after macro was launched for the first time, the `config.ini` file will appear in macro folder where you can tweak some settings:
+  your build (so macro will know what combos to use)
+  slot positions (if you prefer putting your gun in the 3th slot)
+  and more
 
 <a name="install"><h1>HOW TO INSTALL</h1></a>
 1. Dowload ahk **v2.0** from the [Official AutoHotkey Page](https://www.autohotkey.com) if you havent already
