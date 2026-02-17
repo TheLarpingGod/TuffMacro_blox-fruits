@@ -11,7 +11,7 @@ automaticaly detects which slot is currently active.
 after macro was launched for the first time, the `config.ini` file will appear in macro folder where you can tweak some settings:
 
 <a name="install"><h1>HOW TO INSTALL</h1></a>
-1. Dowload ahk v2 from https://www.autohotkey.com if you havent already
+1. Dowload ahk **v2.0** from the [Official AutoHotkey Page](https://www.autohotkey.com) if you havent already
 2. Downlaod the latest realease
 3. Extract *file* to a new folder
 4. Run `Main.ahk`
@@ -21,6 +21,3 @@ after macro was launched for the first time, the `config.ini` file will appear i
 if your combo was interupted then macro will automaticaly cancel your combo so it wont just spam random moves if you got stunned during combo. (can be disabled)
 #### 2 Supports any keyboard languages/layaouts
 every combos will work even if your active keyboard layaout isnt english (most .ahk macros actually dont support this)
-
-<!-- links -->
-[latest-release-link]: https://github.com/MangoEnjoyer67/SuperiorMacro_blox-fruits/releases/latest
