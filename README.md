@@ -16,7 +16,7 @@ you can change setting such as:
   - and more
 
 <a name="install"><h1>HOW TO INSTALL</h1></a>
-1. Dowload ahk **v2.0** from the [Official AutoHotkey Page](https://www.autohotkey.com) if you havent already
+1. Dowload ahk **v2.0** from the [Official AutoHotkey Website](https://www.autohotkey.com) if you havent already
 2. Downlaod the latest realease
 3. Extract it to a new folder
 4. Run `Main.ahk`
