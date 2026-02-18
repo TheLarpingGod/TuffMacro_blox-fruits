@@ -18,7 +18,7 @@ you can change setting such as:
 <a name="install"><h1>HOW TO INSTALL</h1></a>
 1. Dowload ahk **v2.0** from the [Official AutoHotkey Page](https://www.autohotkey.com) if you havent already
 2. Downlaod the latest realease
-3. Extract *file* to a new folder
+3. Extract it to a new folder
 4. Run `Main.ahk`
 
 <a name="usage"><h2>How to use</h2></a>
@@ -31,5 +31,5 @@ you can change setting such as:
 <a name="minor_features"><h2>Minor Features</h2></a>
 #### 1. Auto combo cancelation
 if your combo was interupted then macro will automaticaly cancel your combo so it wont just spam random moves if you got stunned during combo. (can be disabled)
-#### 2 Supports any keyboard languages/layaouts
-every combos will work even if your active keyboard layaout isnt english (most .ahk macros actually dont support this)
+#### 2 Supports any keyboard languages/layouts
+every combos will work even if your active keyboard layout isn't english (most .ahk macros actually dont support this)
