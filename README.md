@@ -1,5 +1,4 @@
-### ⬇️SCROLL DOWN FOR INSTALLATION GUIDE⬇️
-<a name="features"><h2>Features</h2></a>
+#THIS PROJECT IS DEPRECATED AND WILL NEVER RECEIVE ANY UPDATES
 ### 1. Makes all moves to be PERFECTLY timed in combo with any ping
 no matter of your ping this macro will always do the fastest version of your combo without skiping any moves.
 ### 2. Literaly a legal *AutoAim* (not bannable)
